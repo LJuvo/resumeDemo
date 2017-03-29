@@ -1,0 +1,13 @@
+{
+    "isloadwebp": true,
+    "lstimg": [
+        {
+            "name": "img1",
+            "path": "path1"
+        },
+        {
+            "name": "img1",
+            "path": "path1"
+        }
+    ]
+}

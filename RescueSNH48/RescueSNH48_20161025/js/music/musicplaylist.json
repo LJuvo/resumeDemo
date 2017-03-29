@@ -1,0 +1,16 @@
+{
+    "playlist": [
+   		 {
+            "name": "background",
+            "path": "src/sound/background."
+        },
+        {
+            "name": "get",
+            "path": "src/sound/get."
+        },
+        {
+            "name": "fly",
+            "path": "src/sound/fly."
+        }
+    ]
+}
